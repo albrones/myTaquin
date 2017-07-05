@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Chronometer
+        android:id="@+id/simpleChronometer"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:textSize="40dp"
+        android:gravity="center" />
+
+    <GridView
+        android:id="@+id/GameView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:columnWidth="100dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="2dp"
+        android:horizontalSpacing="2dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        android:background="#fff7fbff" />
+
+</LinearLayout>
+
+
+

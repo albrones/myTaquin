@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTaquin</string>
+
+    <string-array name="imageWidth">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+    </string-array>
+    <string name="instructions">Choisi la taille dans laquel tu veux découper l\'image puis clique sur l\'image que tu souhaite et à toi de jouer !</string>
+</resources>

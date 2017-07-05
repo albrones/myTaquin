@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTaquin</string>
+
+    <string-array name="imageWidth">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+    </string-array>
+    <string name="instructions">Choose the size to split image then click on image wanted and here we go !</string>
+</resources>
